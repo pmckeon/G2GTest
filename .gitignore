@@ -1,0 +1,11 @@
+
+*.sym
+*.noi
+*.map
+*.lst
+*.lk
+*.ihx
+*.gg
+*.d
+*.asm
+G2GTest.rel

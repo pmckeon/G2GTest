@@ -67,7 +67,7 @@ void main(void)
     SMS_autoSetUpTextRenderer();
 
     G2G_IOPinPort = 0x00;
-    G2G_NMIPort = 0x80;
+    G2G_NMIPort = 0xFF;
     G2G_StatusPort = baudValue[0];
     //G2G_StatusPort = G2G_ENABLE_SEND|G2G_ENABLE_RECV;
 
